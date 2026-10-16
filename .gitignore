@@ -6,3 +6,5 @@ backlog.md
 collect.log
 .claude/settings.local.json
 *.bak
+published.json
+publish.log
